@@ -6,9 +6,11 @@ embed-resources: true
 editor: visual
 ---
 
-Caffeine is one of the commonly accepted and normalised addictions in modern society. Through my data story, I aim to understand where I spend my money, on which types of drinks, the cumulative cost of purchasing drinks and whether there are any changes or trends on when I decide to purchase drinks during the course of the semester.
+Caffeine is one of the commonly accepted and normalised addictions in modern society. As someone who struggles with Polycystic Ovary Syndrome (PCOS), I have often been advised to quit caffeine. In addition to health reasons, these drinks are also my biggest daily expense. By viewing my caffeine spending habits through a visual, data-driven lens, I hope to become more intentional about my caffeine intake and purchases. Through my data story, I aim to understand where I spend my money, on which types of drinks, the cumulative cost of purchasing drinks and whether there are any changes or trends on when I decide to purchase drinks during the course of the semester.
 
 I collected and recorded data every time I ordered a drink. I usually order it once a day, but if it's twice, I record the price both times. I created an Excel sheet with the following categories: Date, Coffee Shop, Exact Order, Drink Type (Coffee, Matcha or Chai), Cost (in \$) and Notes. I updated the Excel sheet every week on Mondays and used my Notes and Bank of America App to track the order and cost daily. During the first half of the semester, I lost my Bank of America card and tracked the receipts on my Thomas Cook card. Additionally, I accounted for every time I attended an Open Tab event by listing the total price as 0 US dollars for those specific drinks.
+
+While creating the graphs, I made them as accessible as possible by using colourblind friendly colours and adding alt text.
 
 <iframe title="Money Spent on Drinks at the Underground Coffeehouse vs PeterBs" aria-label="Bar Chart" id="datawrapper-chart-11nNo" src="https://datawrapper.dwcdn.net/11nNo/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="159" data-external="1">
 
@@ -18,15 +20,15 @@ I collected and recorded data every time I ordered a drink. I usually order it o
 <script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 ```
 
-This horizontal bar chart shows the amount of money I spent in Peter Bs and the Underground Coffeehouse (UG). I spent a total of \$291.8 on my drinks from February 1st to April 16th, 2026. To create this chart, I first filtered the data by coffee shop and calculated the total amount of money spent at each location. I then created a pivot table to find the cost of drinks I spent on PeterBs vs the Underground Coffeehouse.
+The horizontal bar chart above shows the amount of money I spent in Peter Bs and the Underground Coffeehouse (UG). I spent a total of \$291.8 on my drinks from February 1st to April 16th, 2026. To create this chart, I first filtered the data by coffee shop and calculated the total amount of money spent at each location. I then created a pivot table to find the cost of drinks I spent on PeterBs vs the Underground Coffeehouse.
 
-I was surprised to observe that I spent more money at the UG than I did at PeterBs. This is because I get a student mentor discount at the UG, making the cost
+I was surprised to observe that I spent more money at the UG than I did at PeterBs. This is because I get a student mentor discount at the UG, making the cost of each drink slighly cheaper than PeterBs. In retrospect, this bar chart makes sense as I frequent the Underground Coffeehouse more often.
 
-Overall, having a visual representation of where I am spending my money helps me better understand my spending habits and what I want to change. I was expecting the total costs to be much higher. I suspect this is because I was not on campus during Spring Break, which is the biggest gap in my data.
+Overall, having a visual representation of where I am spending my money helps me better understand my spending habits and where I want to make changes. I was expecting the total costs to be much higher. I suspect this is because my data does not account for the money I spent on caffeinated drinks off campus during this period.
 
 ![](images/Chart%202%20FINAL%20FINAL.png){fig-alt="This is a stacked bar chart that shows the type of drink I purchased at the Underground and PeterBs from February 1st to April 16th, 2026. The X axis contains the drink type, which is, chai, coffee or matcha and the Y axis shows the number of drinks I purchased. Within each bar, the exact drink order is colour coded to add nuance for the graph. The most common drink I purchased is the Banana Pudding Chai with Oat Milk and the least frequent drinks I purchased are the Mango Matcha with Oat Milk and the Sweet Vines Matcha , which I purchased once each during this period."}
 
-The stacked bar graph above illustrates the number of times I ordered a chai, coffee, or matcha. I initially wanted to make this a pie chart but I ended up deciding on a stacked bar chart to also include specific drink order within each drink type. I ordered chai 21 times, coffee 7 times and Matcha 2 times. Since I really liked the banana pudding chai, I stuck to it. As observed in the graph, I ordered Chai 21 times, Coffee 11 times and Matcha 19 times, totalling 53 drinks from February 1th to April 17th. I used R Studio to make this graph and imported my Excel sheet. I also used colourblind friendly colours.
+The stacked bar graph above illustrates the number of times I ordered a chai, coffee, or matcha. I initially wanted to make this a pie chart but I ended up deciding on a stacked bar chart to also include specific drink order within each drink type. I ordered chai 21 times, coffee 7 times and Matcha 2 times. Since I really liked the banana pudding chai, I stuck to it. As observed in the graph, I ordered Chai 21 times, Coffee 11 times and Matcha 19 times, totalling 53 drinks from February 1st to April 16th. I used R Studio to make this graph and imported my Excel sheet.
 
 My most common chai and overall order was a Banana Pudding Chai with Oat milk. Similarly, my I mainly ordered a Dulce De Leche with Oat milk when it came to my coffee order and Blueberry Matcha with Oat milk was my most common matcha order. I also ordered a Sweet Vines Matcha and a Mango Matcha once, making those my most unique drink orders. Through this graph, I learned that once I like a drink order, I tend to stick to it and reorder the drink. 
 
@@ -46,4 +48,4 @@ To create this graph, I manually input all dates in the time period, including t
 
 As observed in the cumulative area graph, the longest periods I went without purchasing are from February 10th to February 15th, 2026 and from March 17th to March 22nd, 2026. Upon reflecting, I observed that the first plateau in February was when I first lost my Bank of America card and had decided to not use my Thomas Cook card yet due to the conversion cost from pounds to US dollars. The second plateau in March is because I was on Spring Break and bought coffee at off-campus locations instead. 
 
-All in all,
+All in all, gdggdgd
