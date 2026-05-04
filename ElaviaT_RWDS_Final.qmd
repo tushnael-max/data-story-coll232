@@ -1,0 +1,31 @@
+---
+title: "Sacred Routes: Mapping Data on the Intersection of Religion and Migration"
+author: "Tushna Elavia"
+embed-resources: true
+format: html
+editor: visual
+---
+
+<iframe title="The Plurality Religion of Incoming Migrants in 2020" aria-label="Choropleth map" id="datawrapper-chart-vsTb1" src="https://datawrapper.dwcdn.net/vsTb1/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="375" data-external="1">
+
+</iframe>
+
+```{=html}
+<script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+```
+
+<iframe title="The Religious Composition of Migrants Coming into the United States (1990- 2020)" aria-label="Area Chart" id="datawrapper-chart-pWGB4" src="https://datawrapper.dwcdn.net/pWGB4/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="473" data-external="1">
+
+</iframe>
+
+```{=html}
+<script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+```
+
+<iframe title="The Global Religious Composition of Incoming Migrants (1990-2020)" aria-label="Small multiple pie chart" id="datawrapper-chart-Simey" src="https://datawrapper.dwcdn.net/Simey/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="492" data-external="1">
+
+</iframe>
+
+```{=html}
+<script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+```
