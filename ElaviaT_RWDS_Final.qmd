@@ -6,7 +6,7 @@ format: html
 editor: visual
 ---
 
-Immigration and religion are deeply interconnected. Religion defies the concept that immigration is a one-time process defined at the point of entry or border. Rather, religious pathways create global ties and challenge the nation-state.[^1] This is because many immigrants come from countries where religion and culture overlap. When they reach their new home, they create diaspora communities while also contributing to their countries of origin in the form of remittances and social capital. Overall, Levitt argues that immigrants do not leave their religion behind; it is carried and evolves with them to create new transnational pathways. 
+Migration and religion are strongly interconnected. Religion defies the concept that immigration is a one-time process defined at the point of entry or border. Rather, religious pathways created as a product of migration strengthen global ties and challenge the definition of nation-state.[^1] This is because many immigrants come from countries where religion and culture overlap. When they reach their new home, they create diaspora communities while also contributing to their countries of origin in the form of remittances and social capital.
 
 [^1]: Levitt, Peggy. God needs no passport. New York: The New Press, 2007.
 
@@ -14,28 +14,12 @@ Despite the religious diversity that frequently accompanies migration, specifica
 
 [^2]: Hagan, Jacqueline, and Helen Rose Ebaugh. "Calling upon the sacred: Migrants’ use of religion in the migration process." International migration review 37.4 (2003), 1145.
 
-    \
+The dataset I have chosen comprises the religious composition of the world’s migrant population from 1990 to 2020 as per the data collected by the United Nations Population Fund. Through this data story, I aim to explore the extent to which the religious composition of the world’s migrants has evolved in this timeperiod.
 
-The dataset I have chosen comprises the religious composition of the world’s migrant population from 1990 to 2020 as per the data collected by the United Nations Population Fund. Through this data story, I aim to explore the extent to which the religious composition of the world’s migrants has evolved from 1990 to 2020 through a data driven lens. 
-
-<iframe title="The Plurality Religion of Incoming Migrants in 2020" aria-label="Choropleth map" id="datawrapper-chart-vsTb1" src="https://datawrapper.dwcdn.net/vsTb1/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="375" data-external="1">
-
-</iframe>
-
-```{=html}
-<script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
-```
-
-Religious familiarity is often sidelined as a factor influencing migration decisions. People often move to a different country to escape religious persecution or be around people who share the same religion. Zanfrini further explores how religion is often a push/pull factor when it comes to the decision of.[^3]
+Religious familiarity is often sidelined as a factor influencing migration decisions. People often move to a different country to escape religious persecution or be around people who share the same religious affiliation as their own. Zanfrini explores how religion is often a push/pull factor when it comes to the initial decision of choosing to migrate and where to migrate to.[^3]
 
 [^3]: Zanfrini, Laura. "On the role of religion in the decision to migrate." Migrants and religion: Paths, issues, and lenses. Brill, 2020, 315.
 
-The choropleth map above illustrates the plurality of religions among incoming migrants in each country in 2020. In this context, plurality refers to the religion of the largest number of migrants in each country. The categories are Christian, Hindu, Muslim, Buddhist, Jew, Unaffiliated and Undetermined. This map enables the audience to visualise the geographical spread of migrants as per their religious categories. I allocated the "Undetermined" category to all the countries, especially smaller ones, where all religious groups were \< 10,000 people. As observed in the map, Christian migrants are the most numerous in the Americas and Europe. Whereas Islam is more prominent among migrants in North Africa and the Middle East. Hence, the map also reaffirms Zanfrini's theory that migrants are likely to migrate to countries that which have the same dominant religion as their own.
-
-For this reason, Muslim immigrants tend to gravitate towards Saudi Arabia and Jewish immigrants have moved to Israel. When migrants do not have a religious affiliation or are Christians, the top destinations remain the United States, Russia and Germany (Kramer and Tong 11). Similarly, the strong presence of the Church plays a critical role in makesing Italy a desirable destination for Christian migrants from across the world.[^4] Overall, this school of thought reinforces that immigration patterns are not only determined by economic incentives but also sociocultural and religious affinities. 
-
-[^4]: (Zanfrini 2020, 318)
-
 <iframe title="The Plurality Religion of Incoming Migrants in 2020" aria-label="Choropleth map" id="datawrapper-chart-vsTb1" src="https://datawrapper.dwcdn.net/vsTb1/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="375" data-external="1">
 
 </iframe>
@@ -44,9 +28,23 @@ For this reason, Muslim immigrants tend to gravitate towards Saudi Arabia and Je
 <script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 ```
 
-Further, religion plays a critical role in all stages of the immigration process. Religion plays a critical role in the initial decision to migrate, where to migrate, the journey itself and integration into host societies (Hagan and Ebaugh 1146). In simpler words, a migrant’s entire immigration journey varies vastly depending on their religious affiliation, and they often use their religion during the process. For example, ethnic churches in Houston provide resources to members of their community to assist with resettlement (Hagan and Ebaugh 1155). This results in creating new communities away from home and creating communities on the basis of religious affiliation, which is often linked with their sociocultural identity. This creates a new sense of belonging for newly arrived immigrants to establish themselves in their host country while having the familiarity and support of their religious community and institutions. On the contrary, belonging to a minority religion makes seeking asylum and assimilating significantly harder. For example, the British immigration and asylum system is critiqued to be Islamaphobic and excludes Muslims from their definition of “British values and a British identity” (Migrants’ Rights Network). Religion is actively used by and against immigrants consistently throughout their journey.
+The choropleth map above illustrates the plurality of religions among incoming migrants in each country in 2020. In this context, plurality refers to the religion of the largest number of migrants in each country. The categories are Christian, Hindu, Muslim, Buddhist, Jew, Unaffiliated and Undetermined. I allocated the "Undetermined" category to all the countries, especially smaller ones, where all religious groups were \< 10,000 people. Religious familiarity explains why Muslim immigrants tend to gravitate towards Saudi Arabia and Jewish immigrants have moved to Israel. When migrants do not have a religious affiliation or are Christians, the top destinations remain the United States, Russia and Germany.[^4] Similarly, the strong presence of the Church plays a critical role in making Italy a desirable destination for Christian migrants from across the world.[^5]
 
-In addition to playing a critical role in deciding which destination country to migrate to, religion is actively used by and against migrants consistently throughout their migration journey. 
+[^4]: Kramer, Stephanie, and Yunping Tong. “The Religious Composition of the World’s Migrants.” Pew Research Center, 19 Aug. 2024, [pewresearch.org/religion/2024/08/19/the-religious-composition-of-the-worlds-migrants/](#0), 11.
+
+[^5]: (Zanfrini 2020, 318)
+
+As observed in the map, Christian migrants are the most numerous in the Americas and Europe. Whereas Islam is more prominent among migrants in North Africa and the Middle East. Hence, the plurality religion of incoming migrants in 2020 reaffirms Zanfrini's theory that individuals are likely to migrate to countries that which have the same dominant religion as their own. Overall, migration patterns are not only determined by economic incentives but also preexisting sociocultural and religious affinities. 
+
+In addition to playing a critical role in deciding which destination country to migrate to, religion is actively used by and against migrants consistently throughout their journey. It plays a critical role in the initial decision to migrate, where to migrate, the journey itself and integration into host.[^6] In simpler words, a migrant’s entire immigration journey varies vastly depending on their religious affiliation, and they often use their religion during the process. Migrants do not leave their religion behind in their host country. Rather, it is carried and evolves with them to create new transnational pathways.[^7] For example, ethnic churches in Houston provide resources to members of their community to assist with day-to-day activities in their new homes.[^8] This establishes a new sense of belonging for newly arrived immigrants to establish themselves in their host country while having the familiarity and support of their religious community and institutions.
+
+[^6]: (Hagan and Ebaugh 2003, 1146)
+
+[^7]: (Levitt 2007)
+
+[^8]: (Hagan and Ebaugh 2003, 1155).
+
+On the contrary, belonging to a minority religion makes seeking asylum and assimilating significantly harder. Any increase in migration from minority religious groups is a topic of political contention. Articles such as "[Muhammad overtook Noah as the most popular boy's name](https://www.bbc.com/news/articles/cly4g2v0ej6o)” published by the BBC in the United Kingdom and "[Washington Post columnist argues Muslims shouldn't have to assimilate in America](https://www.foxnews.com/media/washington-post-columnist-argues-muslims-shouldnt-have-assimilate-america)" published by Fox News are frequently deemed newsworthy.
 
 <iframe title="The Religious Composition of Migrants Coming into the United States (1990- 2020)" aria-label="Area Chart" id="datawrapper-chart-pWGB4" src="https://datawrapper.dwcdn.net/pWGB4/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="473" data-external="1">
 
@@ -56,6 +54,14 @@ In addition to playing a critical role in deciding which destination country to 
 <script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 ```
 
+This chart presents the changing religious composition of migrants entering the United States between 1990 and 2020 using a stacked area format, which allows for the simultaneous visualization of proportional distribution. By representing each religious group as a share of the total, the chart foregrounds structural shifts in composition rather than absolute migration volume. It challenges the "Great Replacement" theory and other xenophobic, anti-immigrant popular rhetoric that states migrants coming into the United States are drastically changing its socioreligious composition. Similarly, the British immigration and asylum system is critiqued to be Islamophobic and excludes Muslims from their definition of “British values and a British identity."[^9]
+
+[^9]: Migrants’ Rights Network. “Islamophobia and Migration.” Migrants’ Rights Network,[www.migrantsrights.org.uk/projects/who-is-welcome/islamophobia-and-migration/](http://www.migrantsrights.org.uk/projects/who-is-welcome/islamophobia-and-migration/).
+
+As observed in the stacked area chart, Christianity continues to be the dominant religion of migrants coming into the country. Where there is a slight, gradual decline in their proportional share, particularly in 2015, it is not nearly as drastic as portrayed in Western popular media. Overall, the religious identity of migrants coming into the United States remains largely unchanged from 1990 to 2020. The false exaggeration of a perceived, drastic change in the socioreligious composition of incoming migrants into the United States is weaponized to promote anti-migrant rhetoric for political gain and further ostracizes migrants belonging to minority religious groups.
+
+The largely unchanged religious composition of incoming migrants from 1990 to 2020 is not particular to the United States and reflects a larger, global trend.
+
 <iframe title="The Global Religious Composition of Incoming Migrants (1990-2020)" aria-label="Small multiple pie chart" id="datawrapper-chart-Simey" src="https://datawrapper.dwcdn.net/Simey/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="492" data-external="1">
 
 </iframe>
@@ -64,4 +70,6 @@ In addition to playing a critical role in deciding which destination country to 
 <script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 ```
 
-This series of pie charts encapsulates the total religious composition of the world’s migrants from 1990 to 2020 in five-year increments. This graph provides a basis for data story by illustrating that while the total number of migrants have nearly doubled from 1990 to 2020, the religious composition of the world’s migrants remains largely unchanged.
+The total religious composition of the world’s migrants from migrants in 1990 to 2020 remains mostly consistent. While the total number of migrants have nearly doubled from 152,970,000 migrants in 1990 to 280,570,000 migrants in 2020, the religious composition of the world’s migrants remains largely unchanged. Christians remain the largest religious group among migrants and comprised of 47% of the total migrant population in 19900 and 48% of the total, global migrant population in 2020. Christian migrants are followed by Muslim migrants who comprised of 26% of the total, global migrant population in 1990 and 29% in 2020.
+
+Overall, the religious composition of migrants across the world, including in the United States. has remained largely unchanged from 1990 to 2020. Migrants often tend to migrate to host countries that have the same pluralist or dominant religion as their own.
